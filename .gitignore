@@ -37,6 +37,13 @@ yarn-error.log*
 *.db
 *.db-journal
 
+# IDE
+.idea/
+
+# downloaded / temporary
+cloudflared.zip
+cookies.txt
+
 # vercel
 .vercel
 
